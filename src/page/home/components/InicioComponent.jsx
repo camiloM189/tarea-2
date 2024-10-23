@@ -12,7 +12,7 @@ export const InicioComponent = forwardRef((props, ref) => {
 
         <div style={{display: "flex",alignItems: "center",justifyContent: "center"}}>
             <div style={{width:"60%"}}>
-                <p className="" style={{ textAlign:"center",lineHeight: 1.5}}>A continuación, exploraremos dos temas clave que son fundamentales 
+                <p className="" style={{ textAlign:"center",lineHeight: 1.5}}>A continuación, exploraremos tres temas claves que son fundamentales 
                 en el desarrollo de software. Cada uno de ellos proporcionará una 
                 visión más profunda de conceptos esenciales que todo desarrollador debe conocer.
                 </p>
